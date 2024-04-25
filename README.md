@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Welcome%20to%20hun-cloud&fontSize=50" />
   <div>
     
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+backend+developer.;I'm+still+growing.;Thank+you+for+coming)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+backend+developer.;I'm+still+growing+:\);Thank+you+for+coming!!!)](https://git.io/typing-svg)
   
   </div>
 </div>
