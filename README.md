@@ -22,7 +22,7 @@
 <!--     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white"> -->
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <div align=center style="display:flex; flex-direction:row;">
 <div>🌱 I’m currently learning deeply...</div>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 <!--  -->
 <div align=center style="display:flex; flex-direction:row;">
   <div>🎈 My growing repository 🎈</div>
