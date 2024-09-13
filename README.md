@@ -28,7 +28,7 @@
 <div>🌱 I’m currently learning deeply...</div>
   <br/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> -->
 </div>
 
 <br/><br/>
