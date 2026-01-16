@@ -82,10 +82,7 @@ Backend Developer
 ---
 
 ## :octocat: Contributions & Activities
-
-- 오픈소스 라이브러리 분석 및 실무 적용 경험
-- 내부 공통 모듈 리팩토링 및 안정화
-- 테스트 코드 작성 문화 확산 기여
+- 🌱 **Spring Cloud OpenFeign** - OAuth2 dash-case property support ([#1270](https://github.com/spring-cloud/spring-cloud-openfeign/issues/1270))
 
 ---
 
